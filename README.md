@@ -20,4 +20,4 @@ Indev was originally designed as a single-player client with no multiplayer supp
 
 ## Contributing
 
-Contributions are welcome. If you have inquiries or would like to contribute, please reach out to steve2024 on Discord: **__nash_**. For further assistance, you can also contact Maxxx (Blizzardfur) if needed.
+Contributions are welcome. If you have inquiries or would like to contribute, please reach out to steve2024 on Discord: **__nash__**. For further assistance, you can also contact Maxxx (Blizzardfur) if needed.
