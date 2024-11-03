@@ -1,0 +1,17 @@
+2024-11-02 23:43:32 [INFO] Starting minecraft server version Beta 1.7.3
+2024-11-02 23:43:32 [INFO] Loading properties
+2024-11-02 23:43:32 [WARNING] server.properties does not exist
+2024-11-02 23:43:32 [INFO] Generating new properties file
+2024-11-02 23:43:32 [INFO] Starting Minecraft server on *:25565
+2024-11-02 23:43:32 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (The system cannot find the file specified)
+2024-11-02 23:43:32 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (The system cannot find the file specified)
+2024-11-02 23:43:32 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: ops.txt (The system cannot find the file specified)
+2024-11-02 23:43:32 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (The system cannot find the file specified)
+2024-11-02 23:43:32 [INFO] Preparing level "world"
+2024-11-02 23:43:33 [INFO] Preparing start region for level 0
+2024-11-02 23:43:34 [INFO] Preparing spawn area: 24%
+2024-11-02 23:43:34 [INFO] Preparing start region for level 1
+2024-11-02 23:43:34 [INFO] Done (1509257200ns)! For help, type "help" or "?"
+2024-11-02 23:43:34 [INFO] Stopping server
+2024-11-02 23:43:34 [INFO] Saving chunks
+2024-11-02 23:43:34 [INFO] Saving chunks
